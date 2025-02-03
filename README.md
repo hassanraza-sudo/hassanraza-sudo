@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Raza</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Assembly , Linux**
+- 🌱 I’m currently learning **React , Postgresql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
